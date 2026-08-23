@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Ceviche de camaron",
+        "precio": 8.50,
+        "categoria": "entrada"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Seco de pollo",
+        "precio": 6.75,
+        "categoria": "plato_principal"
+    }
+]
